@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KibaRabbitMQSend", "KibaRabbitMQSend\KibaRabbitMQSend.csproj", "{5C951278-2F53-4662-A466-E52640468EC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KibaRabbitMQReceived", "KibaRabbitMQReceived\KibaRabbitMQReceived.csproj", "{C8F764C2-72CF-4CAE-B94A-3EFF4F89037E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C951278-2F53-4662-A466-E52640468EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C951278-2F53-4662-A466-E52640468EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C951278-2F53-4662-A466-E52640468EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C951278-2F53-4662-A466-E52640468EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8F764C2-72CF-4CAE-B94A-3EFF4F89037E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F764C2-72CF-4CAE-B94A-3EFF4F89037E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F764C2-72CF-4CAE-B94A-3EFF4F89037E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F764C2-72CF-4CAE-B94A-3EFF4F89037E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2E0C7D8-1FF3-47B4-9F5A-F7704616AAE9}
+	EndGlobalSection
+EndGlobal
